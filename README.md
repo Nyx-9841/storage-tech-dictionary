@@ -1,1 +1,1 @@
-# storage-tech-dictionary
+# Storage Tech Dictionary
