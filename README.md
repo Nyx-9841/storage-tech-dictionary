@@ -1,7 +1,7 @@
 # Storage Tech Dictionary
 ## Table of Contents
-[Information](https://github.com/CommanderGenesis/storage-tech-dictionary/edit/main/README.md#information)
-[Dictionary](https://github.com/CommanderGenesis/storage-tech-dictionary/edit/main/README.md#dictionary)
+[Information](https://github.com/CommanderGenesis/storage-tech-dictionary/edit/main/README.md#information)  
+[Dictionary](https://github.com/CommanderGenesis/storage-tech-dictionary/edit/main/README.md#dictionary)  
 
 ## Information
 The storage tech dictionary is a compilation originally created by boyenn (boyenn#3717) and Firigion (Firigion#7498), and ported to GitHub by me, CommanderGenesis (CommanderGenesis#5623) to accompany the storage tech Discord server (https://discord.gg/JufJ6uf). It is meant to be a rough glossary of storage tech terms, features, contraptions, and bad practices to explain commonly used vocabulary within the storage tech community, as well as a resource for useful data to assist your research or simply feed your general knowledge. It is highly recommended that new members of the storage tech community read this dictionary in its entirety, to fully understand the terms used in the Discord. To request that a new definition or resource be added to the dictionary, simply create an issue in the issues tab. Do not create a pull request, as those will likely not be monitored. For help, questions, or concerns, please contact one of the dictionary curators on the storage tech Discord server.
